@@ -4,11 +4,25 @@ body {
 background-color: #5C5353; 
 
 }
+.cabecalho__titulo{
 
-.cabecalho_imagem {
-
-    width: 130px;
-    height:160px;
-    border-radius: 100px;
+    display: inline;
 }
 
+.cabecalho__imagem {
+
+width: 130px;
+height: 160px;
+border-radius: 100px;
+
+}
+
+.cabecalho__menu{
+    display: inline;
+
+}
+
+.cabecalho__menu-item{
+
+    display: inline;
+}
