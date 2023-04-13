@@ -4,3 +4,11 @@ body {
 background-color: #5C5353; 
 
 }
+
+.cabecalho_imagem {
+
+    width: 130px;
+    height:160px;
+    border-radius: 100px;
+}
+
