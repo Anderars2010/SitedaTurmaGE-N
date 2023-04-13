@@ -11,12 +11,12 @@ display: flex;
 justify-content: space-around;
 align-items: center;
 }
-.cabecalho__titulo{
+.cabecalho_titulo {
 
     display: inline;
 }
 
-.cabecalho__imagem {
+.cabecalho_imagem {
 
 width: 130px;
 height: 160px;
@@ -24,12 +24,12 @@ border-radius: 100px;
 
 }
 
-.cabecalho__menu{
+.cabecalho_menu{
     display: inline;
 
 }
 
-.cabecalho__menu-item{
+.cabecalho_menu-item{
 
     display: inline;
     margin-left: 20px;
