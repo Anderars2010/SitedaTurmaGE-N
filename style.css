@@ -40,9 +40,10 @@ border-radius: 100px;
 }
 
 .escola{
-
+     display: flex;
     background-color: darkgray;
-
+    justify-content: flex-start;
+    align-items: flex-start;
 }
 .escola__imagem {
     width: 300px;
