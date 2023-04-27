@@ -56,8 +56,11 @@ border-radius: 100px;
 
 .professores {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    justify-content: center;
     grid-template-rows: auto auto;
+    grid-template-columns: 1fr 1fr ;
+    /* align-items: center; */
+    justify-items: center;
     background-color: #FBDF4B;
 }
 .professores__div-imagem {
